@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "description": "CI CD Demo Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
